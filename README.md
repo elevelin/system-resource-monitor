@@ -50,10 +50,10 @@ python3 monitor.py
 
 This tool is useful for:
 
-System resource visibility
+-System resource visibility
 
-Lightweight local monitoring
+-Lightweight local monitoring
 
-Building automation scripts or cron jobs
+-Building automation scripts or cron jobs
 
-Demonstrating Python + Linux CLI experience
+-Demonstrating Python + Linux CLI experience
