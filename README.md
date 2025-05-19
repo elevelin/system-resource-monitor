@@ -32,14 +32,21 @@ python3 monitor.py
 📁 Output Example
 
 📅 2025-05-19 13:00:00
+
 🧠 CPU Usage: 23.4%
+
 💾 Memory Usage: 5.12 GB / 16.00 GB (32.0%)
+
 🗃️ Disk Usage: 74.32 GB / 256.00 GB (29.0%)
+
 🔥 Top 5 CPU Processes:
+
   PID  18432 | Chrome              | 15.2% CPU
+  
   PID  15312 | Docker              | 12.7% CPU
 ...
 🧠 Why Use This?
+
 
 This tool is useful for:
 
